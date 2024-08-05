@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "fir-miner-60b30",
+          "appId": "1:783481758973:android:85934d7f3210516a0a8a94",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "fir-miner-60b30",
+          "configurations": {
+            "android": "1:783481758973:android:85934d7f3210516a0a8a94",
+            "ios": "1:783481758973:ios:ac7f5531423e03f30a8a94",
+            "macos": "1:783481758973:ios:ac7f5531423e03f30a8a94",
+            "web": "1:783481758973:web:bd8f1581465045100a8a94",
+            "windows": "1:783481758973:web:a8146bf97a6dc1480a8a94"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

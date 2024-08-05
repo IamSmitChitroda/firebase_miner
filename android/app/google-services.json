@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783481758973",
+    "project_id": "fir-miner-60b30",
+    "storage_bucket": "fir-miner-60b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783481758973:android:85934d7f3210516a0a8a94",
+        "android_client_info": {
+          "package_name": "com.example.firebase_miner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fe-EQGKiExZTr4lpijJMyamXHzJnGjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
